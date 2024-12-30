@@ -9,7 +9,7 @@ const Fab = () => {
       color="primary"
       startIcon={<AddIcon />}
       sx={{
-        borderRadius: "10px",
+        borderRadius: "22px",
         padding: "12px 24px",
         textTransform: "none",
         fontSize: "15px",
