@@ -22,7 +22,7 @@ const Fab = () => {
         variant="button"
         sx={{
           fontFamily: "Roboto, Helvetica",
-          fontSize: "15px",
+          fontSize: "16px",
           fontWeight: 500,
           letterSpacing: "0.46px",
           lineHeight: "26px",
